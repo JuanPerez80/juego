@@ -14,11 +14,15 @@ Podrás elegir entre quedarte en casa jugando videojuegos o salir a hacer ejerci
 - Te desplazas por la habitación con las **flechas del teclado**.
 - Puedes interactuar con ciertos objetos o zonas clave.
 - Toma decisiones que afectan la **barra de ánimo**.
-- ¡Descubre los distintos finales según tus elecciones!
+
 
 
 # Capturas de pantalla del juego
 ![game](https://github.com/user-attachments/assets/11220059-5e61-48f0-9711-995e25124da2)
+
+# Instalar juego
+
+tienes que tener python y tienes que clonar este repositorio, instalas pygame y luego ejecutas el juego
 
 
 
